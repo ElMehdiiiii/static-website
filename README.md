@@ -5,7 +5,11 @@ This project demonstrates how to host a static HTML web application on AWS using
 ## Project Overview
 
 In this project, the following AWS services and configurations were utilized:
+
+
 ![Alt text](/Host_a_Static_Website_on_AWS.png)
+
+
 1. **Virtual Private Cloud (VPC)**:
    - Configured with both public and private subnets across two different availability zones.
 
